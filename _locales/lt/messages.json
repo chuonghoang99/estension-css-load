@@ -1,0 +1,113 @@
+{
+   "activate": {
+      "message": "Aktyvuoti plėtinį"
+   },
+   "click_to_copy": {
+      "message": "Spustelėkite, norėdami nukopijuoti, paspauskite tarpą, norėdami prisegti"
+   },
+   "click_traverse": {
+      "message": "ir spustelėkite norėdami peržiūrėti"
+   },
+   "close_shortcut": {
+      "message": "Uždaryti plėtinį"
+   },
+   "context_menu": {
+      "message": "Patikrinkite su „CSS Scan“"
+   },
+   "continue": {
+      "message": "Tęsti"
+   },
+   "copied": {
+      "message": "Nukopijuota į iškarpinę"
+   },
+   "description": {
+      "message": "Greitai patikrinkite ir nukopijuokite apskaičiuotą CSS"
+   },
+   "exit": {
+      "message": "Uždaryti „CSS Scan“"
+   },
+   "feedback": {
+      "message": "Atsiliepimai"
+   },
+   "hold": {
+      "message": "Laikykite"
+   },
+   "loading": {
+      "message": "Stiliai kraunami... Bandykite dar kartą"
+   },
+   "local_error": {
+      "message": "Klaida: šio elemento stilius negali būti analizuojamas, nes jo stilius yra iš vietinio sistemos failo. Jei norite, kad „CSS Scan“ veiktų, įjunkite vietinį serverį šiam puslapiui arba įkelkite stilių į išorinį serverį."
+   },
+   "move": {
+      "message": "Perkelti"
+   },
+   "no_styles": {
+      "message": "Nepavyko rasti stilių"
+   },
+   "options": {
+      "message": "Nustatymai"
+   },
+   "options_convert_fontsize_to_px": {
+      "message": "Konvertuoti font-size matavimo vienetus į px"
+   },
+   "options_copy_classes": {
+      "message": "Copy CSS selector"
+   },
+   "options_copy_hover": {
+      "message": "Copy it separately"
+   },
+   "options_dont_copy_hover": {
+      "message": "Don't copy it"
+   },
+   "options_ignore_bxsizing": {
+      "message": "Ignoruoti box-sizing"
+   },
+   "options_ignore_inherited": {
+      "message": "Ignore inherited styles"
+   },
+   "options_ignore_prefixes": {
+      "message": "Ignore browser vendor prefixes"
+   },
+   "options_merge_hover": {
+      "message": "Merge it"
+   },
+   "options_nest_hover": {
+      "message": "Copy it nested (SASS/LESS)"
+   },
+   "options_show_grid": {
+      "message": "Grid"
+   },
+   "options_truncate_classes": {
+      "message": "Truncated selector"
+   },
+   "overlapping": {
+      "message": "persidengiantys"
+   },
+   "pause": {
+      "message": "Stabdyti"
+   },
+   "pause_continue": {
+      "message": "Stabdyti / Tęsti"
+   },
+   "pin_shortcut": {
+      "message": "Prisegti rezultatą"
+   },
+   "scan_parent": {
+      "message": "Nuskenuoti tėvinį elementą"
+   },
+   "shortcuts": {
+      "message": "Nuorodos"
+   },
+   "shortcuts_warning_1": {
+      "message": "Norint kad veiktų spartieji klavišai, puslapis turi būti sufokusuotas. Jums bus patogiau jei plėtinį atidarinėsite per nuorodą."
+   },
+   "shortcuts_warning_2": {
+      "message": "Jūs taip pat galite juos pakeisti spustelėdami ant jų."
+   },
+   "toggle_grid": {
+      "message": "Perjungti tinklelį"
+   },
+   "whats_new": {
+      "message": "What's New"
+   }
+}

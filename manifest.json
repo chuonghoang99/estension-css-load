@@ -1,0 +1,51 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "icon.png"
+   },
+   "commands": {
+      "_execute_browser_action": {
+         "suggested_key": {
+            "chromeos": "Ctrl+Shift+S",
+            "linux": "Ctrl+Shift+S",
+            "mac": "Ctrl+Shift+S",
+            "windows": "Ctrl+Shift+S"
+         }
+      },
+      "activate-grid": {
+         "description": "__MSG_toggle_grid__",
+         "suggested_key": {
+            "chromeos": "Ctrl+Shift+X",
+            "linux": "Ctrl+Shift+X",
+            "mac": "Ctrl+Shift+X",
+            "windows": "Ctrl+Shift+X"
+         }
+      },
+      "scan-parent": {
+         "description": "__MSG_scan_parent__",
+         "suggested_key": {
+            "chromeos": "Ctrl+Shift+E",
+            "linux": "Ctrl+Shift+E",
+            "mac": "Ctrl+Shift+E",
+            "windows": "Ctrl+Shift+E"
+         }
+      }
+   },
+   "content_security_policy": "script-src 'self' 'sha256-DiboVkmKE5P7O4rojKQ5divprLa+AogUBM7KzOXORqI='",
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "homepage_url": "https://getcssscan.com",
+   "icons": {
+      "128": "icon_128.png",
+      "96": "icon.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAu6GAX4+VfGJcZo4I4b4DxslBq2Fw/clqwc4kQHzjgVGSpb6PTi9mNq7UIjvlAeFMlqNKV1d1nNgVvtWv/mK69gfpEcA/Yqj6vgYnKU4vuJKy+fDKMIDj/zDCNfUGbgw9KLVSv3Q2VBUM3fIpAfzt0j4Kq2lyElejEn4Feaikr1HiruolNp7xI9kkxb58NpRFP2BCv3vGmIddFeXY9n7fGB69R0LL2+tNnlpz3/xovCRyEJyuFbmxT868JU3onIbMNEFfXIDgdsV9pKpheAh24jM6Uu9qZTEBKbnhNvsAOXGqWaKOCiKtNWAwh3UM1353jiDmbT/IcBjlnsfsXPovpwIDAQAB",
+   "manifest_version": 2,
+   "name": "CSS Scan",
+   "permissions": [ "storage", "activeTab", "\u003Call_urls>", "contextMenus", "clipboardWrite" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.0",
+   "web_accessible_resources": [ "icon.png", "spinner.svg", "fontawesome/css/fontawesome.min.css", "fontawesome/css/solid.min.css", "fontawesome/webfonts/fa-solid-900.eot", "fontawesome/webfonts/fa-solid-900.svg", "fontawesome/webfonts/fa-solid-900.ttf", "fontawesome/webfonts/fa-solid-900.woff", "fontawesome/webfonts/fa-solid-900.woff2" ]
+}

@@ -1,0 +1,113 @@
+{
+   "activate": {
+      "message": "Attiva l'estensione"
+   },
+   "click_to_copy": {
+      "message": "Clicca per copiare, premi la barra spaziatrice per pinnare"
+   },
+   "click_traverse": {
+      "message": "e fare clic per attraversare"
+   },
+   "close_shortcut": {
+      "message": "Chiusi l'estensione"
+   },
+   "context_menu": {
+      "message": "Ispezionare con CSS Scan"
+   },
+   "continue": {
+      "message": "Continua"
+   },
+   "copied": {
+      "message": "Copiato"
+   },
+   "description": {
+      "message": "Ispeziona e copia velocemente il CSS"
+   },
+   "exit": {
+      "message": "Chiudi CSS Scan"
+   },
+   "feedback": {
+      "message": "Feedback"
+   },
+   "hold": {
+      "message": "tieni premuto"
+   },
+   "loading": {
+      "message": "Caricamento stili... Prova di nuovo"
+   },
+   "local_error": {
+      "message": "Errore: Gli stili per questo elemento non possono essere analizzati perchè il foglio di stile si trova nel file system locale. Per far funzionare CSS Scan, fai partire un server locale per questa pagina o caricala su un server esterno."
+   },
+   "move": {
+      "message": "Muovi"
+   },
+   "no_styles": {
+      "message": "Nessuno stile trovato"
+   },
+   "options": {
+      "message": "Opzioni"
+   },
+   "options_convert_fontsize_to_px": {
+      "message": "Converti le unità di misura font-size in px"
+   },
+   "options_copy_classes": {
+      "message": "Copy CSS selector"
+   },
+   "options_copy_hover": {
+      "message": "Copy it separately"
+   },
+   "options_dont_copy_hover": {
+      "message": "Don't copy it"
+   },
+   "options_ignore_bxsizing": {
+      "message": "Ignora box-sizing"
+   },
+   "options_ignore_inherited": {
+      "message": "Ignore inherited styles"
+   },
+   "options_ignore_prefixes": {
+      "message": "Ignore browser vendor prefixes"
+   },
+   "options_merge_hover": {
+      "message": "Merge it"
+   },
+   "options_nest_hover": {
+      "message": "Copy it nested (SASS/LESS)"
+   },
+   "options_show_grid": {
+      "message": "Grid"
+   },
+   "options_truncate_classes": {
+      "message": "Truncated selector"
+   },
+   "overlapping": {
+      "message": "sovrapposizione"
+   },
+   "pause": {
+      "message": "Pausa"
+   },
+   "pause_continue": {
+      "message": "Pausa / Continua"
+   },
+   "pin_shortcut": {
+      "message": "Risultato pin"
+   },
+   "scan_parent": {
+      "message": "Scansiona l'elemento padre"
+   },
+   "shortcuts": {
+      "message": "Scorciatoie"
+   },
+   "shortcuts_warning_1": {
+      "message": "La pagina deve avere il focus affinchè le scorciatoie funzionino. E' più facile se apri sempre l'estensione attraverso i tasti scorciatoia."
+   },
+   "shortcuts_warning_2": {
+      "message": "Puoi anche sostituirli cliccandoci sopra."
+   },
+   "toggle_grid": {
+      "message": "Attiva griglia"
+   },
+   "whats_new": {
+      "message": "What's New"
+   }
+}

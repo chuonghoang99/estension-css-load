@@ -1,0 +1,113 @@
+{
+   "activate": {
+      "message": "Eklentiyi aktifleştir"
+   },
+   "click_to_copy": {
+      "message": "Click to copy, press space to pin"
+   },
+   "click_traverse": {
+      "message": "and click to traverse"
+   },
+   "close_shortcut": {
+      "message": "Eklentiyi kapat"
+   },
+   "context_menu": {
+      "message": "Inspect with CSS Scan"
+   },
+   "continue": {
+      "message": "Devam et"
+   },
+   "copied": {
+      "message": "Copied to clipboard"
+   },
+   "description": {
+      "message": "Hızlıca CSS özelliklerini incele ve kopyala"
+   },
+   "exit": {
+      "message": "CSS Scan'ı kapat"
+   },
+   "feedback": {
+      "message": "Geri bildirim"
+   },
+   "hold": {
+      "message": "hold"
+   },
+   "loading": {
+      "message": "Loading styles... Try again"
+   },
+   "local_error": {
+      "message": "Error: Styles for this element can't be parsed because its stylesheet is coming from a local system file. For CSS Scan to work, please turn on a local server for this page or upload the stylesheets to an external server."
+   },
+   "move": {
+      "message": "Hareket et"
+   },
+   "no_styles": {
+      "message": "No styles found"
+   },
+   "options": {
+      "message": "Ayarlar"
+   },
+   "options_convert_fontsize_to_px": {
+      "message": "font-size değerlerini px değerine hesaplayarak çevir"
+   },
+   "options_copy_classes": {
+      "message": "Copy CSS selector"
+   },
+   "options_copy_hover": {
+      "message": "Copy it separately"
+   },
+   "options_dont_copy_hover": {
+      "message": "Don't copy it"
+   },
+   "options_ignore_bxsizing": {
+      "message": "box-sizing'i geçersiz kıl"
+   },
+   "options_ignore_inherited": {
+      "message": "Ignore inherited styles"
+   },
+   "options_ignore_prefixes": {
+      "message": "Ignore browser vendor prefixes"
+   },
+   "options_merge_hover": {
+      "message": "Merge it"
+   },
+   "options_nest_hover": {
+      "message": "Copy it nested (SASS/LESS)"
+   },
+   "options_show_grid": {
+      "message": "Grid'i göster"
+   },
+   "options_truncate_classes": {
+      "message": "Class isimlerini kes"
+   },
+   "overlapping": {
+      "message": "örtüşen"
+   },
+   "pause": {
+      "message": "Duraklat"
+   },
+   "pause_continue": {
+      "message": "Duraklat / Devam et"
+   },
+   "pin_shortcut": {
+      "message": "Sonucu sabitle"
+   },
+   "scan_parent": {
+      "message": "Ana elementi tara"
+   },
+   "shortcuts": {
+      "message": "Kısayollar"
+   },
+   "shortcuts_warning_1": {
+      "message": "Kısayolların çalışması için sayfanın aktif olmasi gerekiyor. Uzantıyı her zaman kısayolla açarsanız daha pratik olur."
+   },
+   "shortcuts_warning_2": {
+      "message": "Üzerine tıklayarak da değiştirebilirsiniz."
+   },
+   "toggle_grid": {
+      "message": "Grid'i gizle"
+   },
+   "whats_new": {
+      "message": "What's New"
+   }
+}

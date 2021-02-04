@@ -1,0 +1,113 @@
+{
+   "activate": {
+      "message": "Активирайте разширението"
+   },
+   "click_to_copy": {
+      "message": "Кликнете, за да копирате, натиснете интервал за закрепване"
+   },
+   "click_traverse": {
+      "message": "и щракнете, за да преминете"
+   },
+   "close_shortcut": {
+      "message": "Затворете разширението"
+   },
+   "context_menu": {
+      "message": "Проверка с CSS Scan"
+   },
+   "continue": {
+      "message": "Продължи"
+   },
+   "copied": {
+      "message": "Копирано в клипборда"
+   },
+   "description": {
+      "message": "Бързо инспектиране и копиране на изчисления CSS"
+   },
+   "exit": {
+      "message": "Затворете CSS Scan"
+   },
+   "feedback": {
+      "message": "Обратна връзка"
+   },
+   "hold": {
+      "message": "задръжте"
+   },
+   "loading": {
+      "message": "Зареждане на стилове ... Опитайте отново"
+   },
+   "local_error": {
+      "message": "Грешка: Стиловете за този елемент не могат да бъдат анализирани, защото неговата стилова таблица идва от локален системен файл. За да работи CSS сканирането, моля, включете локален сървър за тази страница или заредете стиловете на външен сървър."
+   },
+   "move": {
+      "message": "Ход"
+   },
+   "no_styles": {
+      "message": "Не са намерени стилове"
+   },
+   "options": {
+      "message": "Настройки"
+   },
+   "options_convert_fontsize_to_px": {
+      "message": "Преобразувайте мерната единица за размера на шрифта в px"
+   },
+   "options_copy_classes": {
+      "message": "Copy CSS selector"
+   },
+   "options_copy_hover": {
+      "message": "Copy it separately"
+   },
+   "options_dont_copy_hover": {
+      "message": "Don't copy it"
+   },
+   "options_ignore_bxsizing": {
+      "message": "Игнорирайте box-sizing"
+   },
+   "options_ignore_inherited": {
+      "message": "Ignore inherited styles"
+   },
+   "options_ignore_prefixes": {
+      "message": "Ignore browser vendor prefixes"
+   },
+   "options_merge_hover": {
+      "message": "Merge it"
+   },
+   "options_nest_hover": {
+      "message": "Copy it nested (SASS/LESS)"
+   },
+   "options_show_grid": {
+      "message": "Grid"
+   },
+   "options_truncate_classes": {
+      "message": "Truncated selector"
+   },
+   "overlapping": {
+      "message": "застъпване"
+   },
+   "pause": {
+      "message": "Пауза"
+   },
+   "pause_continue": {
+      "message": "Пауза / Продължаване"
+   },
+   "pin_shortcut": {
+      "message": "Закрепване на резултата"
+   },
+   "scan_parent": {
+      "message": "Сканиране на родителския елемент"
+   },
+   "shortcuts": {
+      "message": "Преки пътища"
+   },
+   "shortcuts_warning_1": {
+      "message": "Страницата трябва да е фокусирана, за да работят преките пътища. По-лесно е, ако винаги отваряте разширението чрез пряк път."
+   },
+   "shortcuts_warning_2": {
+      "message": "Можете също да ги промените, като кликнете върху него."
+   },
+   "toggle_grid": {
+      "message": "Превключване на grid"
+   },
+   "whats_new": {
+      "message": "What's New"
+   }
+}

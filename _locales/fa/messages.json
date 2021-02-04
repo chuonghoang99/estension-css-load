@@ -1,0 +1,113 @@
+{
+   "activate": {
+      "message": "برنامه افزودنی را فعال کنید"
+   },
+   "click_to_copy": {
+      "message": "برای کپی کردن کلیک کنید ، space را برای پین کردن فشار دهید"
+   },
+   "click_traverse": {
+      "message": "و برای گذر کلیک کنید"
+   },
+   "close_shortcut": {
+      "message": "برنامه افزودنی را ببندید"
+   },
+   "context_menu": {
+      "message": "بازرسی با اسکن CSS"
+   },
+   "continue": {
+      "message": "ادامه "
+   },
+   "copied": {
+      "message": "در کلیپ بورد کپی شد"
+   },
+   "description": {
+      "message": "به سرعت CSS محاسبه شده را بازرسی و کپی کنید"
+   },
+   "exit": {
+      "message": "اسکن CSS را ببندید"
+   },
+   "feedback": {
+      "message": "بازخورد"
+   },
+   "hold": {
+      "message": "را نگه دارید"
+   },
+   "loading": {
+      "message": "بارگیری سبک ها ... دوباره امتحان کنید"
+   },
+   "local_error": {
+      "message": "Error: Styles for this element can't be parsed because its stylesheet is coming from a local system file. For CSS Scan to work, please turn on a local server for this page or upload the stylesheets to an external server."
+   },
+   "move": {
+      "message": "حرکت"
+   },
+   "no_styles": {
+      "message": "هیچ سبکی یافت نشد"
+   },
+   "options": {
+      "message": "گزینه ها"
+   },
+   "options_convert_fontsize_to_px": {
+      "message": "واحدهای اندازه گیری اندازه قلم را به px تبدیل کنید"
+   },
+   "options_copy_classes": {
+      "message": "نام کلاس ها را کپی کنید"
+   },
+   "options_copy_hover": {
+      "message": "Copy it separately"
+   },
+   "options_dont_copy_hover": {
+      "message": "Don't copy it"
+   },
+   "options_ignore_bxsizing": {
+      "message": "چشم پوشیدن box-sizing"
+   },
+   "options_ignore_inherited": {
+      "message": "Ignore inherited styles"
+   },
+   "options_ignore_prefixes": {
+      "message": "Ignore browser vendor prefixes"
+   },
+   "options_merge_hover": {
+      "message": "Merge it"
+   },
+   "options_nest_hover": {
+      "message": "Copy it nested (SASS/LESS)"
+   },
+   "options_show_grid": {
+      "message": "نشان دادن grid"
+   },
+   "options_truncate_classes": {
+      "message": "Truncated selector"
+   },
+   "overlapping": {
+      "message": "با هم تداخل دارند"
+   },
+   "pause": {
+      "message": "توقف"
+   },
+   "pause_continue": {
+      "message": "توقف / ادامه"
+   },
+   "pin_shortcut": {
+      "message": "نتیجه را پن کنید"
+   },
+   "scan_parent": {
+      "message": "اسکن عنصر والدین"
+   },
+   "shortcuts": {
+      "message": "میانبر"
+   },
+   "shortcuts_warning_1": {
+      "message": "برای کارکردن کلید های میانبر باید صفحه را تمرکز کنید. اگر همیشه پسوند را با میانبر باز کنید ، ساده تر است."
+   },
+   "shortcuts_warning_2": {
+      "message": "همچنین می توانید با کلیک کردن بر روی آنها ، آنها را تغییر دهید."
+   },
+   "toggle_grid": {
+      "message": "تنظیم گريد"
+   },
+   "whats_new": {
+      "message": "What's New"
+   }
+}

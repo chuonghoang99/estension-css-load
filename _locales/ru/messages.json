@@ -1,0 +1,113 @@
+{
+   "activate": {
+      "message": "Активировать расширение"
+   },
+   "click_to_copy": {
+      "message": "Кликните для копирования, нажмите пробел для закрепления"
+   },
+   "click_traverse": {
+      "message": "и кликните для перемещения"
+   },
+   "close_shortcut": {
+      "message": "Закрыть расширение"
+   },
+   "context_menu": {
+      "message": "Исследовать с CSS Scan"
+   },
+   "continue": {
+      "message": "Продолжить"
+   },
+   "copied": {
+      "message": "Скопировано в буфер обмена"
+   },
+   "description": {
+      "message": "Быстро просмотреть и скопировать CSS стили"
+   },
+   "exit": {
+      "message": "Закрыть CSS Scan"
+   },
+   "feedback": {
+      "message": "Обратная связь"
+   },
+   "hold": {
+      "message": "удерживайте"
+   },
+   "loading": {
+      "message": "Загрузка стилей... Повторите ещё раз"
+   },
+   "local_error": {
+      "message": "Ошибка: Стили для этого элемента не могут быть получены потому что стили подключены с локального диска. Для работы CSS Scan, пожалуйста включите локальный веб-сервер для этой страницы или выгрузите стили на какой-то сервер"
+   },
+   "move": {
+      "message": "Двигать"
+   },
+   "no_styles": {
+      "message": "Стили не найдены"
+   },
+   "options": {
+      "message": "Опции"
+   },
+   "options_convert_fontsize_to_px": {
+      "message": "Конвертировать размер шрифтов в пиксели (px)"
+   },
+   "options_copy_classes": {
+      "message": "Копировать CSS селектор"
+   },
+   "options_copy_hover": {
+      "message": "Копировать отдельно"
+   },
+   "options_dont_copy_hover": {
+      "message": "Не копировать"
+   },
+   "options_ignore_bxsizing": {
+      "message": "Игнорировать box-sizing"
+   },
+   "options_ignore_inherited": {
+      "message": "Ignore inherited styles"
+   },
+   "options_ignore_prefixes": {
+      "message": "Игнорировать префиксы"
+   },
+   "options_merge_hover": {
+      "message": "Смешивать с основными"
+   },
+   "options_nest_hover": {
+      "message": "Копировать вложено (SASS/LESS)"
+   },
+   "options_show_grid": {
+      "message": "Показать сетку"
+   },
+   "options_truncate_classes": {
+      "message": "Обрезать селектор"
+   },
+   "overlapping": {
+      "message": "повторение"
+   },
+   "pause": {
+      "message": "Пауза"
+   },
+   "pause_continue": {
+      "message": "Пауза / Продолжить"
+   },
+   "pin_shortcut": {
+      "message": "Закрепить результаты"
+   },
+   "scan_parent": {
+      "message": "Посмотреть родительский элемент"
+   },
+   "shortcuts": {
+      "message": "Ярлыки"
+   },
+   "shortcuts_warning_1": {
+      "message": "Для работоспособности горячих клавиш страница должна быть в фокусе. Это проще всего сделать, если всегда открывать расширение по горячей клавише."
+   },
+   "shortcuts_warning_2": {
+      "message": "Вы можете изменить их кликнув по ним"
+   },
+   "toggle_grid": {
+      "message": "Переключить сетку"
+   },
+   "whats_new": {
+      "message": "What's New"
+   }
+}

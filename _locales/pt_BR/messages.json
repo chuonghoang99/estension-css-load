@@ -1,0 +1,113 @@
+{
+   "activate": {
+      "message": "Ativar a extensão"
+   },
+   "click_to_copy": {
+      "message": "Clique para copiar, pressione espaço para fixar"
+   },
+   "click_traverse": {
+      "message": "e clique para atravessar"
+   },
+   "close_shortcut": {
+      "message": "Fechar a extensão"
+   },
+   "context_menu": {
+      "message": "Inspecionar com o CSS Scan"
+   },
+   "continue": {
+      "message": "Continuar"
+   },
+   "copied": {
+      "message": "Copiado para a área de transferência"
+   },
+   "description": {
+      "message": "Inspecione e copie CSS computado rapidamente"
+   },
+   "exit": {
+      "message": "Fechar CSS Scan"
+   },
+   "feedback": {
+      "message": "Feedback"
+   },
+   "hold": {
+      "message": "segure"
+   },
+   "loading": {
+      "message": "Carregando estilos... Tente novamente"
+   },
+   "local_error": {
+      "message": "Erro: Os estilos para esse elemento não podem ser processador pois seu CSS está vindo de um arquivo do sistema local. Para o CSS Scan funcionar, por favor ligue um servidor para essa página ou carregue-a num servidor externo."
+   },
+   "move": {
+      "message": "Mover"
+   },
+   "no_styles": {
+      "message": "Nenhum estilo encontrado"
+   },
+   "options": {
+      "message": "Opções"
+   },
+   "options_convert_fontsize_to_px": {
+      "message": "Converter medidas font-size para px"
+   },
+   "options_copy_classes": {
+      "message": "Copiar CSS selector"
+   },
+   "options_copy_hover": {
+      "message": "Copiar separadamente"
+   },
+   "options_dont_copy_hover": {
+      "message": "Não copiar"
+   },
+   "options_ignore_bxsizing": {
+      "message": "Ignorar box-sizing"
+   },
+   "options_ignore_inherited": {
+      "message": "Ignorar estilos herdados"
+   },
+   "options_ignore_prefixes": {
+      "message": "Ignorar vendor prefixes do navegador"
+   },
+   "options_merge_hover": {
+      "message": "Mesclar"
+   },
+   "options_nest_hover": {
+      "message": "Copiar agrupado (SASS/LESS)"
+   },
+   "options_show_grid": {
+      "message": "Grid"
+   },
+   "options_truncate_classes": {
+      "message": "Seletores truncados"
+   },
+   "overlapping": {
+      "message": "sobrepondo"
+   },
+   "pause": {
+      "message": "Pausar"
+   },
+   "pause_continue": {
+      "message": "Pausar / Continuar"
+   },
+   "pin_shortcut": {
+      "message": "Fixar resultado"
+   },
+   "scan_parent": {
+      "message": "Escanear elemento pai"
+   },
+   "shortcuts": {
+      "message": "Atalhos"
+   },
+   "shortcuts_warning_1": {
+      "message": "A página precisar estar focada para os atalhos funcionarem. É mais fácil se você sempre abrir a extensão pelo atalho."
+   },
+   "shortcuts_warning_2": {
+      "message": "Você também pode mudá-los clicando neles."
+   },
+   "toggle_grid": {
+      "message": "Ativar grid"
+   },
+   "whats_new": {
+      "message": "Novidades"
+   }
+}

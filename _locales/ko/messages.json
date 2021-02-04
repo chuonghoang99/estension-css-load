@@ -1,0 +1,113 @@
+{
+   "activate": {
+      "message": "확장 프로그램 활성화"
+   },
+   "click_to_copy": {
+      "message": "클릭해서 복사하고, 빈 공간을 눌러 붙여 넣으세요."
+   },
+   "click_traverse": {
+      "message": "을 (를) 클릭하여 트래버스합니다."
+   },
+   "close_shortcut": {
+      "message": "확장 프로그램 닫기"
+   },
+   "context_menu": {
+      "message": "CSS Scan"
+   },
+   "continue": {
+      "message": "계속"
+   },
+   "copied": {
+      "message": "클립 보드에 복사됨"
+   },
+   "description": {
+      "message": "계산된 CSS를 신속하게 검사, 복사"
+   },
+   "exit": {
+      "message": "CSS Scan 닫기"
+   },
+   "feedback": {
+      "message": "피드백"
+   },
+   "hold": {
+      "message": "대기"
+   },
+   "loading": {
+      "message": "스타일 로딩 중...다시 시도하세요."
+   },
+   "local_error": {
+      "message": "오류 :이 요소의 스타일 시트는 로컬 시스템 파일에서 오는 스타일 시트이므로 구문 분석 할 수 없습니다. CSS 스캔을 사용하려면이 페이지의 로컬 서버를 켜거나 외부 서버에 스타일 시트를 업로드하십시오."
+   },
+   "move": {
+      "message": "이동"
+   },
+   "no_styles": {
+      "message": "스타일을 찾을 수 없습니다."
+   },
+   "options": {
+      "message": "옵션"
+   },
+   "options_convert_fontsize_to_px": {
+      "message": "Convert font-size measure units to px"
+   },
+   "options_copy_classes": {
+      "message": "Copy CSS selector"
+   },
+   "options_copy_hover": {
+      "message": "Copy it separately"
+   },
+   "options_dont_copy_hover": {
+      "message": "Don't copy it"
+   },
+   "options_ignore_bxsizing": {
+      "message": "box-sizing 무시"
+   },
+   "options_ignore_inherited": {
+      "message": "Ignore inherited styles"
+   },
+   "options_ignore_prefixes": {
+      "message": "Ignore browser vendor prefixes"
+   },
+   "options_merge_hover": {
+      "message": "Merge it"
+   },
+   "options_nest_hover": {
+      "message": "Copy it nested (SASS/LESS)"
+   },
+   "options_show_grid": {
+      "message": "Grid"
+   },
+   "options_truncate_classes": {
+      "message": "Truncated selector"
+   },
+   "overlapping": {
+      "message": "중첩"
+   },
+   "pause": {
+      "message": "일시 중지"
+   },
+   "pause_continue": {
+      "message": "일지 중지 / 계속"
+   },
+   "pin_shortcut": {
+      "message": "Pin box"
+   },
+   "scan_parent": {
+      "message": "상위 요소 검색"
+   },
+   "shortcuts": {
+      "message": "단축키"
+   },
+   "shortcuts_warning_1": {
+      "message": "단축키로 확장 프로그램을 여는 것이 더 쉽습니다. 단축키를 사용법을 기억하시길 바랍니다."
+   },
+   "shortcuts_warning_2": {
+      "message": "클릭을 통해 변경할 수 있습니다."
+   },
+   "toggle_grid": {
+      "message": "그리드 토글"
+   },
+   "whats_new": {
+      "message": "What's New"
+   }
+}

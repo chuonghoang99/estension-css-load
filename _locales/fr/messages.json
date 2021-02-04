@@ -1,0 +1,113 @@
+{
+   "activate": {
+      "message": "Activer l'extension"
+   },
+   "click_to_copy": {
+      "message": "Cliquez pour copier, appuyez sur espace pour épingler"
+   },
+   "click_traverse": {
+      "message": "et cliquez pour parcourir"
+   },
+   "close_shortcut": {
+      "message": "Fermer l'extension"
+   },
+   "context_menu": {
+      "message": "Inspect with CSS Scan"
+   },
+   "continue": {
+      "message": "Continuer"
+   },
+   "copied": {
+      "message": "Copié dans le presse-papiers"
+   },
+   "description": {
+      "message": "Inspectez et copiez rapidement le CSS calculé"
+   },
+   "exit": {
+      "message": "Fermer CSS Scan"
+   },
+   "feedback": {
+      "message": "Retour"
+   },
+   "hold": {
+      "message": "appuyer sur"
+   },
+   "loading": {
+      "message": "Chargement des styles... Essayez encore"
+   },
+   "local_error": {
+      "message": "Erreur : Les styles pour cet élément ne peuvent pas être analysés car sa feuille de style provient d'un fichier système local. Pour que CSS Scan fonctionne, veuillez activer un serveur local pour cette page ou télécharger les feuilles de style sur un serveur externe."
+   },
+   "move": {
+      "message": "Déplacer"
+   },
+   "no_styles": {
+      "message": "Aucun style trouvé"
+   },
+   "options": {
+      "message": "Options"
+   },
+   "options_convert_fontsize_to_px": {
+      "message": "Convert font-size measure units to px"
+   },
+   "options_copy_classes": {
+      "message": "Copier CSS selector"
+   },
+   "options_copy_hover": {
+      "message": "Copy it separately"
+   },
+   "options_dont_copy_hover": {
+      "message": "Don't copy it"
+   },
+   "options_ignore_bxsizing": {
+      "message": "Ignorer box-sizing"
+   },
+   "options_ignore_inherited": {
+      "message": "Ignore inherited styles"
+   },
+   "options_ignore_prefixes": {
+      "message": "Ignore browser vendor prefixes"
+   },
+   "options_merge_hover": {
+      "message": "Merge it"
+   },
+   "options_nest_hover": {
+      "message": "Copy it nested (SASS/LESS)"
+   },
+   "options_show_grid": {
+      "message": "Grid"
+   },
+   "options_truncate_classes": {
+      "message": "Truncated selector"
+   },
+   "overlapping": {
+      "message": "qui se chevauchent"
+   },
+   "pause": {
+      "message": "Pause"
+   },
+   "pause_continue": {
+      "message": "Pause / Continuer"
+   },
+   "pin_shortcut": {
+      "message": "Pin box"
+   },
+   "scan_parent": {
+      "message": "Analyser l'élément parent"
+   },
+   "shortcuts": {
+      "message": "Raccourcis"
+   },
+   "shortcuts_warning_1": {
+      "message": "La page doit être ciblée pour que les raccourcis fonctionnent. C'est plus facile si vous ouvrez toujours l'extension par le raccourci."
+   },
+   "shortcuts_warning_2": {
+      "message": "Vous pouvez également les modifier en cliquant dessus."
+   },
+   "toggle_grid": {
+      "message": "Basculer la grille"
+   },
+   "whats_new": {
+      "message": "What's New"
+   }
+}

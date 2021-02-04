@@ -1,0 +1,113 @@
+{
+   "activate": {
+      "message": "எக்ஸ்டென்ஷனை செயல்படுத்து"
+   },
+   "click_to_copy": {
+      "message": "நகலெடுக்க கிளிக் செய், பின் பண்ண ஸ்பேஸ் அழுத்து"
+   },
+   "click_traverse": {
+      "message": "மற்றும் கிளிக் செய் கடந்து செல்வதற்காக"
+   },
+   "close_shortcut": {
+      "message": "எக்ஸ்டென்ஷனை மூடு"
+   },
+   "context_menu": {
+      "message": "CSS Scan மூலம் ஆய்வு செய்"
+   },
+   "continue": {
+      "message": "தொடங்கு"
+   },
+   "copied": {
+      "message": "கிளிப்போர்டுக்கு நகலெடுக்கப்பட்டது"
+   },
+   "description": {
+      "message": "கணக்கிடப்பட்ட CSSயை விரைவாக ஆய்வு செய்து நகலெடு"
+   },
+   "exit": {
+      "message": "CSS Scanஐ மூடு"
+   },
+   "feedback": {
+      "message": "பின்னூட்டம்"
+   },
+   "hold": {
+      "message": "பிடித்துக்கொள்"
+   },
+   "loading": {
+      "message": "பாணிகள் ஏற்றப்படுகின்றன... மீண்டும் முயற்சி செய்"
+   },
+   "local_error": {
+      "message": "பிழை: இந்த எலெமென்ட்டோட பாணிகளை  பார்ஸ் படுத்த முடியவில்லை ஏனால் இதன் பாணி தாள் ஒரு லோக்கல் கணினி கோப்பிலிருந்து வருகிறது. CSS Scan வேலை செய்யனும் என்றால், இந்த பக்கத்திற்கு ஒரு லோக்கல் சர்வரை ஓன் செய்யவும் அல்லது பாணி தாள்களை ஒரு வெளிப்புற சர்வருக்கு பதிவேற்ற வேண்டும்."
+   },
+   "move": {
+      "message": "நகர்த்து"
+   },
+   "no_styles": {
+      "message": "பாணிகள் எதுவும் கிடைக்கவில்லை"
+   },
+   "options": {
+      "message": "விருப்பங்கள்"
+   },
+   "options_convert_fontsize_to_px": {
+      "message": "font-size அளவுகளை px க்கு மாற்று"
+   },
+   "options_copy_classes": {
+      "message": "Copy CSS selector"
+   },
+   "options_copy_hover": {
+      "message": "Copy it separately"
+   },
+   "options_dont_copy_hover": {
+      "message": "Don't copy it"
+   },
+   "options_ignore_bxsizing": {
+      "message": "box-sizingஐ புறக்கணி"
+   },
+   "options_ignore_inherited": {
+      "message": "Ignore inherited styles"
+   },
+   "options_ignore_prefixes": {
+      "message": "Ignore browser vendor prefixes"
+   },
+   "options_merge_hover": {
+      "message": "Merge it"
+   },
+   "options_nest_hover": {
+      "message": "Copy it nested (SASS/LESS)"
+   },
+   "options_show_grid": {
+      "message": "Grid"
+   },
+   "options_truncate_classes": {
+      "message": "Truncated selector"
+   },
+   "overlapping": {
+      "message": "ஒன்றின் மேல் ஒன்று"
+   },
+   "pause": {
+      "message": "காத்திறு"
+   },
+   "pause_continue": {
+      "message": "காத்திறு / தொடங்கு"
+   },
+   "pin_shortcut": {
+      "message": "முடிவை பின் பண்ணு"
+   },
+   "scan_parent": {
+      "message": "பேரண்ட் எலெமென்டை ஸ்கேன் செய்"
+   },
+   "shortcuts": {
+      "message": "குறுக்குவழிகள்"
+   },
+   "shortcuts_warning_1": {
+      "message": "குறுக்குவழிகள் வேலை செய்யனும் என்றால் பக்கத்திற்கு கவனம் இருக்க வேண்டும். எப்போதும்  எக்ஸ்டென்ஷனை குறுக்குவழியால் திறந்தால் எளிதாக இருக்கும்."
+   },
+   "shortcuts_warning_2": {
+      "message": "அவற்றை மாற்றனும் என்றால் அதை கிளிக் கூட செய்யலாம்"
+   },
+   "toggle_grid": {
+      "message": "க்ரிட்டை காட்டு / மறை"
+   },
+   "whats_new": {
+      "message": "What's New"
+   }
+}

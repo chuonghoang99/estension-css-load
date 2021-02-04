@@ -1,0 +1,113 @@
+{
+   "activate": {
+      "message": "فعَل الإضافة"
+   },
+   "click_to_copy": {
+      "message": "انقر للنسخ ، اضغط زر المسافة للتثبيت"
+   },
+   "click_traverse": {
+      "message": "و انقر للعبور"
+   },
+   "close_shortcut": {
+      "message": "أغلق الإضافة"
+   },
+   "context_menu": {
+      "message": "افحص المحتوى ب CSS Scan"
+   },
+   "continue": {
+      "message": "استمرار"
+   },
+   "copied": {
+      "message": "تم النسخ الى الحافظة"
+   },
+   "description": {
+      "message": "افحص و انسخ أنماط ال CSS"
+   },
+   "exit": {
+      "message": "أغلق فاحص ال CSS"
+   },
+   "feedback": {
+      "message": "الملاحظات"
+   },
+   "hold": {
+      "message": "اضغط و ثبت زر"
+   },
+   "loading": {
+      "message": "جاري تحميل الأنماط.. حاول مرة أخرى"
+   },
+   "local_error": {
+      "message": "خطأ: أنماط هذا العنصر لا يمكن تحليلها لأن ملف الأنماط أتى من ملف محلي بالنظام. لكي تشتغل الإضافة ، يرجى تشغيل خادم محلي لهذه الصفحة أو رفع ملفات الأنماط لخادم خارجي."
+   },
+   "move": {
+      "message": "حرَك"
+   },
+   "no_styles": {
+      "message": "لا توجد أنماط"
+   },
+   "options": {
+      "message": "خيارات"
+   },
+   "options_convert_fontsize_to_px": {
+      "message": "حول وحدة حجم الخط الى بكسل px"
+   },
+   "options_copy_classes": {
+      "message": "Copy CSS selector"
+   },
+   "options_copy_hover": {
+      "message": "Copy it separately"
+   },
+   "options_dont_copy_hover": {
+      "message": "Don't copy it"
+   },
+   "options_ignore_bxsizing": {
+      "message": "تجاهل box-sizing"
+   },
+   "options_ignore_inherited": {
+      "message": "Ignore inherited styles"
+   },
+   "options_ignore_prefixes": {
+      "message": "Ignore browser vendor prefixes"
+   },
+   "options_merge_hover": {
+      "message": "Merge it"
+   },
+   "options_nest_hover": {
+      "message": "Copy it nested (SASS/LESS)"
+   },
+   "options_show_grid": {
+      "message": "Grid"
+   },
+   "options_truncate_classes": {
+      "message": "Truncated selector"
+   },
+   "overlapping": {
+      "message": "متداخلة مع بعض"
+   },
+   "pause": {
+      "message": "إيقاف"
+   },
+   "pause_continue": {
+      "message": "إيقاف / استمرار"
+   },
+   "pin_shortcut": {
+      "message": "ثبت النتيجة"
+   },
+   "scan_parent": {
+      "message": "افحص العنصر الأب"
+   },
+   "shortcuts": {
+      "message": "اختصارات"
+   },
+   "shortcuts_warning_1": {
+      "message": "تحتاج الصفحة أن تكون مركزة بالنقرعليها لتشغيل الإضافة. من الأفضل أن تفتح الإضافة دائما عن طريق مفتاح الإختصار"
+   },
+   "shortcuts_warning_2": {
+      "message": "تستطيع تغييرهم دائمًا عن طريق الضغط عليهم"
+   },
+   "toggle_grid": {
+      "message": "تبديل ظهور شبكة المربعات"
+   },
+   "whats_new": {
+      "message": "What's New"
+   }
+}

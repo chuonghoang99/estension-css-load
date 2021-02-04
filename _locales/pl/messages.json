@@ -1,0 +1,113 @@
+{
+   "activate": {
+      "message": "Włącz rozszerzenie"
+   },
+   "click_to_copy": {
+      "message": "Kliknij żeby skopiować, naciśnij spację, żeby zachować"
+   },
+   "click_traverse": {
+      "message": "i kliknij, żeby przesunąć"
+   },
+   "close_shortcut": {
+      "message": "Zamknij rozszerzenie"
+   },
+   "context_menu": {
+      "message": "Sprawdź z CSS Scan"
+   },
+   "continue": {
+      "message": "Kontynuuj"
+   },
+   "copied": {
+      "message": "Skopiowane do pamięci podręcznej"
+   },
+   "description": {
+      "message": "Szybko sprawdź i skopiuj przetworzony CSS"
+   },
+   "exit": {
+      "message": "Zamknij CSS Scan"
+   },
+   "feedback": {
+      "message": "Wyraź opinię"
+   },
+   "hold": {
+      "message": "przytrzymaj"
+   },
+   "loading": {
+      "message": "Wczytuje style... Spróbuj ponownie"
+   },
+   "local_error": {
+      "message": "Błąd: Style dla tego elementu nie mogą być sparowane ponieważ ich stylesheet (dokument stylów) pochodzi z lokalnego systemu plików. Żeby CSS Scan mógł zadziałać, proszę włącz lokalne pliki dla tej strony lub załaduj stylesheet na zewnętrzny serwer."
+   },
+   "move": {
+      "message": "Przesuń"
+   },
+   "no_styles": {
+      "message": "Nie znaleziono żadnych stylów"
+   },
+   "options": {
+      "message": "Opcje"
+   },
+   "options_convert_fontsize_to_px": {
+      "message": "Konwertuj jednostki miary font-size do wartości w pikselach"
+   },
+   "options_copy_classes": {
+      "message": "Copy CSS selector"
+   },
+   "options_copy_hover": {
+      "message": "Copy it separately"
+   },
+   "options_dont_copy_hover": {
+      "message": "Don't copy it"
+   },
+   "options_ignore_bxsizing": {
+      "message": "Ignoruj box-sizing"
+   },
+   "options_ignore_inherited": {
+      "message": "Ignore inherited styles"
+   },
+   "options_ignore_prefixes": {
+      "message": "Ignore browser vendor prefixes"
+   },
+   "options_merge_hover": {
+      "message": "Merge it"
+   },
+   "options_nest_hover": {
+      "message": "Copy it nested (SASS/LESS)"
+   },
+   "options_show_grid": {
+      "message": "Grid"
+   },
+   "options_truncate_classes": {
+      "message": "Truncated selector"
+   },
+   "overlapping": {
+      "message": "Nakładające się"
+   },
+   "pause": {
+      "message": "Wstrzymaj"
+   },
+   "pause_continue": {
+      "message": "Wstrzymaj / Kontynuuj"
+   },
+   "pin_shortcut": {
+      "message": "Zachowaj wynik"
+   },
+   "scan_parent": {
+      "message": "Skanuj element rodzica „parent”"
+   },
+   "shortcuts": {
+      "message": "Skróty"
+   },
+   "shortcuts_warning_1": {
+      "message": "Strona musi być w centrum, żeby skrót mógł zadziałać. Będzie łatwiej jeśli zawsze będziesz włączać rozszerzenie poprzez skrót."
+   },
+   "shortcuts_warning_2": {
+      "message": "Alternatywnie możesz to zmienić poprzez kliknięcie w tym miejscu."
+   },
+   "toggle_grid": {
+      "message": "Przełącz na widok siatki"
+   },
+   "whats_new": {
+      "message": "What's New"
+   }
+}
